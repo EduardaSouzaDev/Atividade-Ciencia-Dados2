@@ -1,0 +1,21 @@
+{
+  "dataset_name": "bronze_coaches",
+  "source": "Conversão Parquet de raw/archive/coaches.csv",
+  "description": "Snapshot tabular de coaches.",
+  "fields": {
+    "code": "Coluna: code",
+    "current": "Coluna: current",
+    "name": "Coluna: name",
+    "gender": "Coluna: gender",
+    "function": "Coluna: function",
+    "category": "Coluna: category",
+    "country_code": "Coluna: country_code",
+    "country": "Coluna: country",
+    "country_long": "Coluna: country_long",
+    "disciplines": "Coluna: disciplines",
+    "events": "Coluna: events",
+    "birth_date": "Coluna: birth_date"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Gerado a partir do notebook processamento.ipynb"
+}

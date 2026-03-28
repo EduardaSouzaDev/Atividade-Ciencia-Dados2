@@ -1,0 +1,16 @@
+{
+  "dataset_name": "medalhas_1896_2024",
+  "source": "World Olympedia + Paris 2024 medals_total",
+  "description": "Medalhas por ano e NOC; 2024 incorporado do quadro oficial Paris 2024.",
+  "fields": {
+    "year": "Ano",
+    "edition": "Edição",
+    "country_noc": "NOC",
+    "gold": "Ouro",
+    "silver": "Prata",
+    "bronze": "Bronze",
+    "total": "Total"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "edition_id pode ser nulo para 2024."
+}

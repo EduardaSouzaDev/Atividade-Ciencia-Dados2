@@ -1,0 +1,30 @@
+{
+  "dataset_name": "medallists",
+  "source": "Paris 2024 / Olympics.com — dados abertos",
+  "description": "Medalhistas detalhados.",
+  "fields": {
+    "medal_date": "Coluna: medal_date",
+    "medal_type": "Medalha",
+    "medal_code": "Coluna: medal_code",
+    "name": "Coluna: name",
+    "gender": "Coluna: gender",
+    "country_code": "NOC",
+    "country": "Coluna: country",
+    "country_long": "Coluna: country_long",
+    "nationality_code": "Coluna: nationality_code",
+    "nationality": "Coluna: nationality",
+    "nationality_long": "Coluna: nationality_long",
+    "team": "Coluna: team",
+    "team_gender": "Coluna: team_gender",
+    "discipline": "Coluna: discipline",
+    "event": "Evento",
+    "event_type": "Coluna: event_type",
+    "url_event": "Coluna: url_event",
+    "birth_date": "Coluna: birth_date",
+    "code_athlete": "Coluna: code_athlete",
+    "code_team": "Coluna: code_team",
+    "is_medallist": "Coluna: is_medallist"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

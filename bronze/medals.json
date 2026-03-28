@@ -1,0 +1,22 @@
+{
+  "dataset_name": "bronze_medals",
+  "source": "Conversão Parquet de raw/archive/medals.csv",
+  "description": "Snapshot tabular de medals.",
+  "fields": {
+    "medal_type": "Coluna: medal_type",
+    "medal_code": "Coluna: medal_code",
+    "medal_date": "Coluna: medal_date",
+    "name": "Coluna: name",
+    "gender": "Coluna: gender",
+    "discipline": "Coluna: discipline",
+    "event": "Coluna: event",
+    "event_type": "Coluna: event_type",
+    "url_event": "Coluna: url_event",
+    "code": "Coluna: code",
+    "country_code": "Coluna: country_code",
+    "country": "Coluna: country",
+    "country_long": "Coluna: country_long"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Gerado a partir do notebook processamento.ipynb"
+}

@@ -1,0 +1,27 @@
+{
+  "dataset_name": "schedules_preliminary",
+  "source": "Paris 2024 / Olympics.com — dados abertos",
+  "description": "Dataset schedules_preliminary.",
+  "fields": {
+    "date_start_utc": "Coluna: date_start_utc",
+    "date_end_utc": "Coluna: date_end_utc",
+    "estimated": "Coluna: estimated",
+    "estimated_start": "Coluna: estimated_start",
+    "start_text": "Coluna: start_text",
+    "medal": "Coluna: medal",
+    "venue_code": "Coluna: venue_code",
+    "description": "Coluna: description",
+    "venue_code_other": "Coluna: venue_code_other",
+    "discription_other": "Coluna: discription_other",
+    "team_1_code": "Coluna: team_1_code",
+    "team_1": "Coluna: team_1",
+    "team_2_code": "Coluna: team_2_code",
+    "team_2": "Coluna: team_2",
+    "tag": "Coluna: tag",
+    "sport": "Coluna: sport",
+    "sport_code": "Coluna: sport_code",
+    "sport_url": "Coluna: sport_url"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

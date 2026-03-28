@@ -1,0 +1,18 @@
+{
+  "dataset_name": "olympics_historico",
+  "source": "World Olympedia — Olympic Games medal tally (export CSV)",
+  "description": "Contagem de medalhas por edição dos Jogos Olímpicos e por comitê (NOC), de 1896 a 2022 (verões de verão e inverno conforme o arquivo fonte).",
+  "fields": {
+    "year": "Ano da edição olímpica",
+    "edition": "Nome da edição (ex.: 1896 Summer Olympics)",
+    "edition_id": "Identificador numérico da edição na fonte",
+    "country": "Nome do país ou equipe olímpica",
+    "country_noc": "Código do Comitê Olímpico Nacional (3 letras)",
+    "gold": "Quantidade de medalhas de ouro",
+    "silver": "Quantidade de medalhas de prata",
+    "bronze": "Quantidade de medalhas de bronze",
+    "total": "Total de medalhas"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Arquivo espelhado em raw/olympics_historico.csv a partir de raw/archive/world_olympedia_olympics_game_medal_tally.csv. Paris 2024 não está neste arquivo; é integrado na camada bronze com dados oficiais Paris 2024."
+}

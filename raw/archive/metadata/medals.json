@@ -1,0 +1,22 @@
+{
+  "dataset_name": "medals",
+  "source": "Paris 2024 / Olympics.com — dados abertos",
+  "description": "Medalhas por prova (linha por medalha).",
+  "fields": {
+    "medal_type": "Tipo",
+    "medal_code": "Coluna: medal_code",
+    "medal_date": "Coluna: medal_date",
+    "name": "Coluna: name",
+    "gender": "Coluna: gender",
+    "discipline": "Modalidade",
+    "event": "Evento",
+    "event_type": "Coluna: event_type",
+    "url_event": "Coluna: url_event",
+    "code": "Coluna: code",
+    "country_code": "NOC",
+    "country": "Coluna: country",
+    "country_long": "Coluna: country_long"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

@@ -1,0 +1,20 @@
+{
+  "dataset_name": "technical_officials",
+  "source": "Paris 2024 / Olympics.com — dados abertos",
+  "description": "Dataset technical_officials.",
+  "fields": {
+    "code": "Coluna: code",
+    "current": "Coluna: current",
+    "name": "Coluna: name",
+    "gender": "Coluna: gender",
+    "function": "Coluna: function",
+    "category": "Coluna: category",
+    "organisation_code": "Coluna: organisation_code",
+    "organisation": "Coluna: organisation",
+    "organisation_long": "Coluna: organisation_long",
+    "disciplines": "Coluna: disciplines",
+    "birth_date": "Coluna: birth_date"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

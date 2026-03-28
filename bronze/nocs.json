@@ -1,0 +1,14 @@
+{
+  "dataset_name": "bronze_nocs",
+  "source": "Conversão Parquet de raw/archive/nocs.csv",
+  "description": "Snapshot tabular de nocs.",
+  "fields": {
+    "code": "Coluna: code",
+    "country": "Coluna: country",
+    "country_long": "Coluna: country_long",
+    "tag": "Coluna: tag",
+    "note": "Coluna: note"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Gerado a partir do notebook processamento.ipynb"
+}

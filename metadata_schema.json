@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "description": "Schema para metadados dos datasets olímpicos",
+  "required_fields": [
+    "dataset_name",
+    "source",
+    "description",
+    "fields",
+    "collection_date",
+    "observations"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "dataset_name": "world_olympedia_olympics_game_medal_tally",
+  "source": "World Olympedia — medal tally export",
+  "description": "Medalhas históricas por edição e NOC.",
+  "fields": {
+    "year": "Ano",
+    "edition": "Coluna: edition",
+    "edition_id": "Coluna: edition_id",
+    "country": "Coluna: country",
+    "country_noc": "NOC",
+    "gold": "Ouro",
+    "silver": "Coluna: silver",
+    "bronze": "Coluna: bronze",
+    "total": "Coluna: total"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

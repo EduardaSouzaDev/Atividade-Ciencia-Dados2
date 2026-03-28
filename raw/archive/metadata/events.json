@@ -1,0 +1,14 @@
+{
+  "dataset_name": "events",
+  "source": "Paris 2024 / Olympics.com — dados abertos",
+  "description": "Catálogo de eventos por esporte.",
+  "fields": {
+    "event": "Evento",
+    "tag": "Coluna: tag",
+    "sport": "Esporte",
+    "sport_code": "Código",
+    "sport_url": "Coluna: sport_url"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

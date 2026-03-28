@@ -1,0 +1,14 @@
+{
+  "dataset_name": "bronze_events",
+  "source": "Conversão Parquet de raw/archive/events.csv",
+  "description": "Snapshot tabular de events.",
+  "fields": {
+    "event": "Coluna: event",
+    "tag": "Coluna: tag",
+    "sport": "Coluna: sport",
+    "sport_code": "Coluna: sport_code",
+    "sport_url": "Coluna: sport_url"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Gerado a partir do notebook processamento.ipynb"
+}

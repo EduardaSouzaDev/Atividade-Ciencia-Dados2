@@ -1,0 +1,11 @@
+{
+  "dataset_name": "analise_genero",
+  "source": "bronze/atletas_por_sexo",
+  "description": "Proporção de atletas por sexo na base oficial Paris 2024.",
+  "fields": {
+    "gender": "Sexo",
+    "quantidade_atletas": "Quantidade"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

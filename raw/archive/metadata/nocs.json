@@ -1,0 +1,14 @@
+{
+  "dataset_name": "nocs",
+  "source": "Paris 2024 / Olympics.com — dados abertos",
+  "description": "Comitês olímpicos nacionais.",
+  "fields": {
+    "code": "NOC",
+    "country": "País",
+    "country_long": "Coluna: country_long",
+    "tag": "Coluna: tag",
+    "note": "Coluna: note"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

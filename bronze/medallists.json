@@ -1,0 +1,30 @@
+{
+  "dataset_name": "bronze_medallists",
+  "source": "Conversão Parquet de raw/archive/medallists.csv",
+  "description": "Snapshot tabular de medallists.",
+  "fields": {
+    "medal_date": "Coluna: medal_date",
+    "medal_type": "Coluna: medal_type",
+    "medal_code": "Coluna: medal_code",
+    "name": "Coluna: name",
+    "gender": "Coluna: gender",
+    "country_code": "Coluna: country_code",
+    "country": "Coluna: country",
+    "country_long": "Coluna: country_long",
+    "nationality_code": "Coluna: nationality_code",
+    "nationality": "Coluna: nationality",
+    "nationality_long": "Coluna: nationality_long",
+    "team": "Coluna: team",
+    "team_gender": "Coluna: team_gender",
+    "discipline": "Coluna: discipline",
+    "event": "Coluna: event",
+    "event_type": "Coluna: event_type",
+    "url_event": "Coluna: url_event",
+    "birth_date": "Coluna: birth_date",
+    "code_athlete": "Coluna: code_athlete",
+    "code_team": "Coluna: code_team",
+    "is_medallist": "Coluna: is_medallist"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Gerado a partir do notebook processamento.ipynb"
+}

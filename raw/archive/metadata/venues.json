@@ -1,0 +1,15 @@
+{
+  "dataset_name": "venues",
+  "source": "Paris 2024 / Olympics.com — dados abertos",
+  "description": "Dataset venues.",
+  "fields": {
+    "venue": "Coluna: venue",
+    "sports": "Coluna: sports",
+    "date_start": "Coluna: date_start",
+    "date_end": "Coluna: date_end",
+    "tag": "Coluna: tag",
+    "url": "Coluna: url"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

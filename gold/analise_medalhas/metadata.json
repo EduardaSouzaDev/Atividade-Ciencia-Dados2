@@ -1,0 +1,19 @@
+{
+  "dataset_name": "analise_medalhas",
+  "source": "bronze/medalhas_1896_2024",
+  "description": "Resumo e visualização do quadro de medalhas do ano mais recente.",
+  "fields": {
+    "country_noc": "NOC",
+    "country": "País",
+    "gold": "Ouro",
+    "silver": "Prata",
+    "bronze": "Bronze",
+    "total": "Total"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "medalhas_summary.csv e medalhas_plot.png para o ano 2024.",
+  "files": {
+    "medalhas_summary.csv": "Ranking por país",
+    "medalhas_plot.png": "Gráfico top 15"
+  }
+}

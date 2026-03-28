@@ -1,0 +1,16 @@
+{
+  "dataset_name": "bronze_medals_total",
+  "source": "Conversão Parquet de raw/archive/medals_total.csv",
+  "description": "Snapshot tabular de medals_total.",
+  "fields": {
+    "country_code": "Coluna: country_code",
+    "country": "Coluna: country",
+    "country_long": "Coluna: country_long",
+    "Gold Medal": "Coluna: Gold Medal",
+    "Silver Medal": "Coluna: Silver Medal",
+    "Bronze Medal": "Coluna: Bronze Medal",
+    "Total": "Coluna: Total"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Gerado a partir do notebook processamento.ipynb"
+}

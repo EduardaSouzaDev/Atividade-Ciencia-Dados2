@@ -1,0 +1,16 @@
+{
+  "dataset_name": "olympics_paris2024",
+  "source": "Paris 2024 — dataset oficial (medals_total.csv do repositório olympics.com)",
+  "description": "Quadro agregado de medalhas por país (NOC) nos Jogos Olímpicos de Paris 2024.",
+  "fields": {
+    "country_code": "Código NOC (3 letras)",
+    "country": "Nome curto do país",
+    "country_long": "Nome completo do país",
+    "Gold Medal": "Medalhas de ouro",
+    "Silver Medal": "Medalhas de prata",
+    "Bronze Medal": "Medalhas de bronze",
+    "Total": "Total de medalhas"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Dados brutos copiados de raw/archive/medals_total.csv. Colunas mantêm os rótulos originais do CSV oficial."
+}

@@ -1,0 +1,11 @@
+{
+  "dataset_name": "analise_modalidades",
+  "source": "bronze/modalidades_1896_2024",
+  "description": "Distribuição de linhas de medalha por esporte (Paris 2024).",
+  "fields": {
+    "sport": "Esporte",
+    "num_medalhas_registradas": "Contagem de linhas"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Cada linha no bronze é uma medalha individual."
+}

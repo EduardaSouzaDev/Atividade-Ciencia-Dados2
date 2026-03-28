@@ -1,0 +1,11 @@
+{
+  "dataset_name": "atletas_por_sexo",
+  "source": "Agregação athletes.csv",
+  "description": "Contagem de atletas Paris 2024 por campo gender.",
+  "fields": {
+    "gender": "Sexo",
+    "quantidade_atletas": "Contagem"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

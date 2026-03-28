@@ -1,0 +1,20 @@
+{
+  "dataset_name": "bronze_technical_officials",
+  "source": "Conversão Parquet de raw/archive/technical_officials.csv",
+  "description": "Snapshot tabular de technical_officials.",
+  "fields": {
+    "code": "Coluna: code",
+    "current": "Coluna: current",
+    "name": "Coluna: name",
+    "gender": "Coluna: gender",
+    "function": "Coluna: function",
+    "category": "Coluna: category",
+    "organisation_code": "Coluna: organisation_code",
+    "organisation": "Coluna: organisation",
+    "organisation_long": "Coluna: organisation_long",
+    "disciplines": "Coluna: disciplines",
+    "birth_date": "Coluna: birth_date"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Gerado a partir do notebook processamento.ipynb"
+}

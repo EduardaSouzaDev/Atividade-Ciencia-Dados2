@@ -1,0 +1,16 @@
+{
+  "dataset_name": "medals_total",
+  "source": "Paris 2024 / Olympics.com — dados abertos",
+  "description": "Totais por país Paris 2024.",
+  "fields": {
+    "country_code": "NOC",
+    "country": "Coluna: country",
+    "country_long": "Coluna: country_long",
+    "Gold Medal": "Ouro",
+    "Silver Medal": "Coluna: Silver Medal",
+    "Bronze Medal": "Coluna: Bronze Medal",
+    "Total": "Total"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

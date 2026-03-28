@@ -1,0 +1,25 @@
+{
+  "dataset_name": "bronze_teams",
+  "source": "Conversão Parquet de raw/archive/teams.csv",
+  "description": "Snapshot tabular de teams.",
+  "fields": {
+    "code": "Coluna: code",
+    "current": "Coluna: current",
+    "team": "Coluna: team",
+    "team_gender": "Coluna: team_gender",
+    "country_code": "Coluna: country_code",
+    "country": "Coluna: country",
+    "country_long": "Coluna: country_long",
+    "discipline": "Coluna: discipline",
+    "disciplines_code": "Coluna: disciplines_code",
+    "events": "Coluna: events",
+    "athletes": "Coluna: athletes",
+    "coaches": "Coluna: coaches",
+    "athletes_codes": "Coluna: athletes_codes",
+    "num_athletes": "Coluna: num_athletes",
+    "coaches_codes": "Coluna: coaches_codes",
+    "num_coaches": "Coluna: num_coaches"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Gerado a partir do notebook processamento.ipynb"
+}

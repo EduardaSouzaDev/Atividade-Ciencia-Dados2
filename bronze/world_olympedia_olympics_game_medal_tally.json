@@ -1,0 +1,18 @@
+{
+  "dataset_name": "bronze_world_olympedia_olympics_game_medal_tally",
+  "source": "Conversão Parquet de raw/archive/world_olympedia_olympics_game_medal_tally.csv",
+  "description": "Snapshot tabular de world_olympedia_olympics_game_medal_tally.",
+  "fields": {
+    "year": "Coluna: year",
+    "edition": "Coluna: edition",
+    "edition_id": "Coluna: edition_id",
+    "country": "Coluna: country",
+    "country_noc": "Coluna: country_noc",
+    "gold": "Coluna: gold",
+    "silver": "Coluna: silver",
+    "bronze": "Coluna: bronze",
+    "total": "Coluna: total"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "Gerado a partir do notebook processamento.ipynb"
+}

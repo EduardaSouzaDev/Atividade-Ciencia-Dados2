@@ -1,0 +1,26 @@
+{
+  "dataset_name": "modalidades_1896_2024",
+  "source": "JOIN medals.csv × events.csv",
+  "description": "Medalhas Paris 2024 com sport_code, sport_url e tag do catálogo de eventos.",
+  "fields": {
+    "medal_type": "Coluna: medal_type",
+    "medal_code": "Coluna: medal_code",
+    "medal_date": "Coluna: medal_date",
+    "name": "Coluna: name",
+    "gender": "Coluna: gender",
+    "discipline": "Coluna: discipline",
+    "event": "Coluna: event",
+    "event_type": "Coluna: event_type",
+    "url_event": "Coluna: url_event",
+    "code": "Coluna: code",
+    "country_code": "Coluna: country_code",
+    "country": "Coluna: country",
+    "country_long": "Coluna: country_long",
+    "tag": "Coluna: tag",
+    "sport": "Coluna: sport",
+    "sport_code": "Coluna: sport_code",
+    "sport_url": "Coluna: sport_url"
+  },
+  "collection_date": "2026-03-28",
+  "observations": "JOIN apenas sobre dados Paris 2024; nome do ficheiro segue padrão da atividade."
+}

@@ -1,0 +1,25 @@
+{
+  "dataset_name": "schedules",
+  "source": "Paris 2024 / Olympics.com — dados abertos",
+  "description": "Dataset schedules.",
+  "fields": {
+    "start_date": "Coluna: start_date",
+    "end_date": "Coluna: end_date",
+    "day": "Coluna: day",
+    "status": "Coluna: status",
+    "discipline": "Coluna: discipline",
+    "discipline_code": "Coluna: discipline_code",
+    "event": "Coluna: event",
+    "event_medal": "Coluna: event_medal",
+    "phase": "Coluna: phase",
+    "gender": "Coluna: gender",
+    "event_type": "Coluna: event_type",
+    "venue": "Coluna: venue",
+    "venue_code": "Coluna: venue_code",
+    "location_description": "Coluna: location_description",
+    "location_code": "Coluna: location_code",
+    "url": "Coluna: url"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}

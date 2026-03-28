@@ -1,0 +1,21 @@
+{
+  "dataset_name": "coaches",
+  "source": "Paris 2024 / Olympics.com — dados abertos",
+  "description": "Dataset coaches.",
+  "fields": {
+    "code": "Coluna: code",
+    "current": "Coluna: current",
+    "name": "Coluna: name",
+    "gender": "Coluna: gender",
+    "function": "Coluna: function",
+    "category": "Coluna: category",
+    "country_code": "Coluna: country_code",
+    "country": "Coluna: country",
+    "country_long": "Coluna: country_long",
+    "disciplines": "Coluna: disciplines",
+    "events": "Coluna: events",
+    "birth_date": "Coluna: birth_date"
+  },
+  "collection_date": "2026-03-28",
+  "observations": ""
+}
